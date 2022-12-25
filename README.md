@@ -1,8 +1,8 @@
-# Christian's "Dotfiles"
+# Amiyaz's " Windows Dotfiles"
 
 Hi, there! 👋
 
-I’m Christian, a 35-year-old tech enthusiast from Germany, and I love to inspire and educate people in IT.
+
 
 This Repository **Dotfiles** contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 
